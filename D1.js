@@ -18,7 +18,9 @@ REGOLE
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
-let myName = "Luca";
+const myName = "Luca";
+
+console.log(myName);
 
 /* ESERCIZIO 3
  Scrivi il codice necessario ad effettuare un addizione (una somma) dei numeri 12 e 20.
@@ -45,6 +47,9 @@ console.log("X = ", x);
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+
+console.log(myName);
+//*Uncaught TypeError: Assignment to constant variable. at D1.js:50:8 (anonimo) @ D1.js:50
 
 /* ESERCIZIO 6
  Esegui una sottrazione tra i numeri 4 e la variable "x" appena dichiarata (che contiene il numero 12).
