@@ -12,6 +12,12 @@ REGOLE
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+const string = "string"; //*dato di typo testo
+const number = 10; //* dato di tipo numero
+const boolean = true;
+const boolean2 = false; //* tipo di dato che risponde con vero o falso
+const not = null; //* tipo di dato lasciato vuoto intenzionalmente
+const entity = "entità"; //* tipo di dato unico e immutabile
 
 /* ESERCIZIO 2
  Crea una variable chiamata "name" e assegna ad essa il tuo nome, sotto forma di stringa.
